@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Material Tailwind Dashboard React - v2.0.0
+* General Admin  - v1.0.0
 =========================================================
 * Product Page: https://github.com/Mattttyyyy/generaladmin
 * Copyright 2023 Matthew Blasco (https://github.com/Mattttyyyy/)

@@ -47,7 +47,7 @@ Footer.defaultProps = {
     { name: "Matthew Blasco", path: "https://mattttyyyy.github.io/webportfolio/" },
     { name: "About Us", path: "https://mattttyyyy.github.io/webportfolio/" },
     { name: "Blog", path: "https://mattttyyyy.github.io/webportfolio/" },
-    { name: "License", path: "https://github.com/Mattttyyyy/generaladmin/blob/main/LICENSE.md" },
+    { name: "License", path: "https://github.com/Mattttyyyy/generaladmin/blob/main/LICENSE" },
   ],
 };
 

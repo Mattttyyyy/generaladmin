@@ -1,8 +1,8 @@
 {
+  "homepage": "https://mattttyyyy.github.io/generaladmin",
   "name": "general-admin-site",
   "private": false,
   "version": "2.0.0",
-  "homepage": "https://mattttyyyy.github.io/generaladmin",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
